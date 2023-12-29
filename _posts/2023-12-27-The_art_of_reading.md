@@ -9,7 +9,7 @@ tags: [Thoughts]
 > One of my major passion is to read, right this Christmas, lost in my thoughts I reflected on the beautifulness of read. So I decided to write this article in order to spread my opinion about.
 {: .prompt-info } 
 
-
+<div style="text-align: justify">
 In the vast landscape of knowledge, reading stands as a shining beacon, guiding those who venture into its depths toward a richer and deeper understanding of the world around them. The importance of reading is not simply limited to the gathering of information; it provides a sturdy foundation on which to build one's cultural background, enriching the mind with the diversity of ideas, perspectives and knowledge.
 
 
@@ -23,3 +23,4 @@ The ability to analyze circumstances with a critical eye becomes an essential sk
 
 
 In conclusion, reading is not just a pastime or a means of entertainment; it is a fundamental pillar for personal and collective growth. Through reading, one builds a cultural background that serves as a guide in understanding the world, while honed critical thinking becomes a lens through which to observe and interpret circumstances with depth and wisdom. In this way, each page read becomes a building block in the construction of a knowledgeable individual and an enlightened society.
+</div>
