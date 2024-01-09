@@ -1,5 +1,5 @@
 ---
-title: "HackTheBox WriteUp - Codify​"
+title: "HackTheBox WriteUp - Codify 🥷🏻​"
 date: 2024-01-08 00:00:00 +0800
 categories: [Hacking WriteUps]
 tags: [Hacking, WriteUp]
