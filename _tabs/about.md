@@ -10,14 +10,14 @@ order: 4
 > In my blog you will find all my Researches and Projects
 {: .prompt-info }
 
-![profile](/assets/img/various_images/rectangle_profile.jpg)
-
 <div style="text-align: justify">
 I'm Carlo Colizzi, a student and researcher of Computer Science and Cyber Security at the University of Salerno in Italy. I love Computer Science in all its aspects. Right now I'm practicing research at UNISA, in the field of Malware Development, and studying for a Major in Cyber Security.
 <br><br>
 I think that in Cyber Security the best defence is the knowledge about the attack.
 Research on a field like Penetration Testing is crucial to defeat organized crime and to defend IT infrastructres.
 </div>
+
+![profile](/assets/img/various_images/rectangle_profile.jpg)
 
 <br>
 <b style="color: #2d7ba6">Age:</b> 22 <br>
