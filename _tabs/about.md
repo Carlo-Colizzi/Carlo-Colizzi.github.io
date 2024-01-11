@@ -17,7 +17,7 @@ I think that in Cyber Security the best defence is the knowledge about the attac
 Research on a field like Penetration Testing is crucial to defeat organized crime and to defend IT infrastructres.
 </div>
 
-![rectangle_profile](/assets/img/various_images/rectangle_profile.jpg)
+
 
 <br>
 <b style="color: #2d7ba6">Age:</b> 22 <br>
