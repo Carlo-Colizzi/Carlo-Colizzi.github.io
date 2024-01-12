@@ -192,3 +192,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+google_analytics: G-MF6Q7GFR7Y
