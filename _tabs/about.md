@@ -23,7 +23,7 @@ Research on a field like Penetration Testing is crucial to defeat organized crim
 <b style="color: #2d7ba6">Study:</b> University of Salerno <br>
 <b style="color: #2d7ba6">Freelance:</b> Available <br>
 
-![rectangle_profile](/assets/img/various_images/rectangle_profile.jpg)
+![rectangle_profile](/assets/img/various_images/rectangle_profile.png)
 
 > For collaborations send me an email
 {: .prompt-tip }
