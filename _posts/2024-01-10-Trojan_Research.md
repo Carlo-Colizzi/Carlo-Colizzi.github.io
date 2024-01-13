@@ -63,7 +63,7 @@ and Social Engineering.
 </style>
 
 ### Thesis work in pdf format
-> The research work is in Italian, i recommend you to use [DeepL](https://www.deepl.com/it/translator/files) to translate it in a rapid way
+> The research work is in Italian, i recommend you to use [DeepL](https://www.deepl.com/translator/files) to translate it in a rapid way
 {: .prompt-tip} 
 
 <a href="/assets/downloads/Tesi_CarloColizzi.pdf" download>
