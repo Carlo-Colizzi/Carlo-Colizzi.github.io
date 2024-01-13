@@ -47,7 +47,7 @@ and Social Engineering.
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.btn {
+.btnDownload {
   background-color: DodgerBlue;
   border: none;
   color: white;
@@ -57,7 +57,7 @@ and Social Engineering.
 }
 
 /* Darker background on mouse-over */
-.btn:hover {
+.btnDownload:hover {
   background-color: RoyalBlue;
 }
 </style>
@@ -67,6 +67,6 @@ and Social Engineering.
 {: .prompt-tip} 
 
 <a href="/assets/downloads/Tesi_CarloColizzi.pdf" download>
-<button class="btn"><i class="fa fa-download"></i> Download</button>
+<button class="btnDownload"><i class="fa fa-download"></i> Download</button>
 </a>
 
