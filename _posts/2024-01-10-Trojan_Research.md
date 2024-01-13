@@ -68,6 +68,6 @@ and Social Engineering.
 {: .prompt-tip} 
 
 <a href="/assets/downloads/Tesi_CarloColizzi.pdf" download>
-<button class="btnDownload"><i class="fa fa-download"></i> Download</button>
+<button class="btnDownload"> Download</button>
 </a>
 
