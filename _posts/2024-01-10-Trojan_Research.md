@@ -44,7 +44,6 @@ and Social Engineering.
 <br>
 
 
-<a href>
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -64,7 +63,7 @@ and Social Engineering.
 </style>
 
 ### Thesis work in pdf format
-> The research work is in Italian, i recommend you to use  to translate it in a rapid way
+> The research work is in Italian, i recommend you to use [DeepL](https://www.deepl.com/it/translator/files) to translate it in a rapid way
 {: .prompt-tip} 
 
 <a href="/assets/downloads/Tesi_CarloColizzi.pdf" download>
