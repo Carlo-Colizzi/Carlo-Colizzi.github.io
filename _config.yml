@@ -113,7 +113,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://carlocolizzi.com"
+baseurl: ""
 
 gems:
   - jekyll-sitemap
