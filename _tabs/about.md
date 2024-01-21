@@ -11,7 +11,7 @@ order: 4
 {: .prompt-info }
 
 <div style="text-align: justify">
-I'm Carlo Colizzi, a student and researcher of Computer Science and Cyber Security at the University of Salerno in Italy. I love Computer Science in all its aspects. Right now I'm practicing research at UNISA, in the field of Malware Development, and studying for a Major in Cyber Security.
+I'm Carlo Colizzi, a student and researcher of Computer Science and Cyber Security at the University of Salerno in Italy. I love Computer Science in all its aspects. Right now I'm practicing research at UNISA, in the field of Malware Development and Analysis, and studying for a Major in Cyber Security.
 <br><br>
 I think that in Cyber Security the best defence is the knowledge about the attack.
 Research on a field like Penetration Testing is crucial to defeat organized crime and to defend IT infrastructres.
